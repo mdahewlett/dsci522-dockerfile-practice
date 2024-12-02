@@ -1,0 +1,7 @@
+name: 522_docker_practice
+channels:
+  - conda-forge
+dependencies:
+  - numpy=2.1.3
+  - pandas=2.2.3
+  - python=3.11.10
